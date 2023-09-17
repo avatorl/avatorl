@@ -1,3 +1,6 @@
-[Deneb-Vega](https://github.com/avatorl/Deneb-Vega) - Github repository with my Deneb-Vega data visualization examples
+# Andrzej Leszkiewicz
 
-[Power of Business Intelligence](https://powerofbi.org/) - My web-site (blog about Power BI and data visualization)
+- Website (blog): [Power of Business Intelligence](https://powerofbi.org/)
+- Twitter: [@avatorl](https://twitter.com/avatorl)
+- LinkedIn: [@avatorl](https://www.linkedin.com/in/avatorl/)
+- YouTube: [Data Visualization in Power BI and Beyond](https://www.youtube.com/@power-of-bi)
